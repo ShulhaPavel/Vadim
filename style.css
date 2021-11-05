@@ -21,7 +21,7 @@ nav a{
     text-decoration: none;
     border: 2px solid #ffbfaa;
     border-radius: 15px;
-    color: #ffbfaa
+    color: #00fff7
 }
 
 main{
@@ -30,11 +30,11 @@ main{
 
 h1{
     text-align: center;
-    color:#ffbfaa;
+    color:#00fff7;
 }
 
 p{
-    color: #ffe5b4;
+    color: #00fff7;
 }
 
 li{
