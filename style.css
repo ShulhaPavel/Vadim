@@ -21,7 +21,24 @@ nav a{
     text-decoration: none;
     border: 2px solid #ffbfaa;
     border-radius: 15px;
-    color: #00fff7
+    color: #00fff7;
+    padding: 5px 5px 5px 5px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+nav a:hover{
+    color: black;
+}
+
+nav a:focus{
+    color: white;
+    background-color: black;
+
 }
 
 main{
@@ -47,6 +64,18 @@ table{
 color: #00fff7;
 }
 
+tr:first-child{
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+}
+
+td:first-child{
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+}
+
 tr{
     border:1px solid black;
 }
@@ -59,4 +88,16 @@ h2{
     text-align: center;
 }
 
+.pizza1{
+float: left;
+}
+
+.pizza2{
+    float: left;
+}
+
+
+.pizza3{
+    float: left;
+}
 
