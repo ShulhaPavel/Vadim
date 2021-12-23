@@ -50,6 +50,10 @@ h1{
     color:#00fff7;
 }
 
+h1:hover{
+    text-shadow: 2px 2px black;
+}
+
 p{
     color: #00fff7;
 }
